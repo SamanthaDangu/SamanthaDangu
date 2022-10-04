@@ -5,8 +5,11 @@ Salutation à toi qui est sur mon profil ! ✋ Je m'appelle **Samantha Dangu**. 
 Développeuse web full stack Symfony en Ile-de-France !
 
 💻 Stack : PHP, Symfony
+
 🌱 Je suis actuellement entrain d'apprendre : React
+
 👯 Je recherche une entreprise pour mon apprentissage
+
 📫 On peut me contacter ici :
 
 ## Parcours Pro
