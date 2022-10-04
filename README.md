@@ -1,14 +1,12 @@
 # Bonjour le monde ! 
 
-Salutation à toi qui est sur mon profil ! ✋ Je m'appelle **Samantha Dangu**. 😄
-
-Développeuse web full stack Symfony en Ile-de-France !
+Salutation à toi qui es sur mon profil ! ✋ Je m'appelle **Samantha Dangu**, j'ai 28 ans et j'habite en **Ile-de-France**. Je suis développeuse web Full Stack Symfony. 😄
 
 💻 Stack : PHP, Symfony
 
 🌱 Je suis actuellement entrain d'apprendre : React
 
-👯 Je recherche une entreprise pour mon apprentissage
+👯 Je recherche une entreprise pour mon alternance de 16 mois.
 
 📫 On peut me contacter ici :
 
